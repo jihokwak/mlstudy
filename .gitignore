@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/
+data_out/
+.idea/workspace.xml
+.idea/vcs.xml
+/textmining/KoreaNesCrawler
